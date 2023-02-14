@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/vet_admin_demo/static/css/main.6fa26dde.css",
-    "main.js": "/vet_admin_demo/static/js/main.e42275ad.js",
-    "index.html": "/vet_admin_demo/index.html",
-    "main.6fa26dde.css.map": "/vet_admin_demo/static/css/main.6fa26dde.css.map",
-    "main.e42275ad.js.map": "/vet_admin_demo/static/js/main.e42275ad.js.map"
+    "main.css": "/app.js/static/css/main.6fa26dde.css",
+    "main.js": "/app.js/static/js/main.e42275ad.js",
+    "index.html": "/app.js/index.html",
+    "main.6fa26dde.css.map": "/app.js/static/css/main.6fa26dde.css.map",
+    "main.e42275ad.js.map": "/app.js/static/js/main.e42275ad.js.map"
   },
   "entrypoints": [
     "static/css/main.6fa26dde.css",
