@@ -21,3 +21,11 @@ i.icon {
   font-size: 20px;
   cursor: pointer;
 }
+
+#video-demo {
+  font-size: 50px;
+  text-align: center;
+  margin: auto;
+  align-self: center;
+  margin-top: 100px;
+}

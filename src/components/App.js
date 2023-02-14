@@ -5,7 +5,17 @@ import Header from "./header";
 import DrugList from './drugList';
 import DropdownAnimalSearchQuery from './animalList';
 import { Button } from 'semantic-ui-react';
+
 //import value from DropdownAnimalSearchQuery;
+
+function NewPage() {
+  return (
+    <div>
+      <h1>This is a new page</h1>
+      <p>Welcome to this new page!</p>
+    </div>
+  );
+}
 
 function App() {
   const LOCAL_STORAGE_KEY = "drugs";
@@ -42,6 +52,8 @@ function App() {
       <Button basic color='violet' href='/drugs/goat_sheep'>Goat/Sheep</Button>
       <Button basic color='violet' href='/drugs/swine'>Swine</Button>
       <Button basic color='violet' href='/drugs'>All</Button>
+      <br></br>
+      <Button id='video-demo' color='green' target="_blank" href='https://www.youtube.com/watch?v=5bPHgs-0SnA'>VIDEO DEMO</Button>
     </div>
   );
 };
